@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moronesia/express-website.git"
+    "url": "git+https://github.com/Izhal-Brown/expressjs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moronesia/express-website/issues"
+    "url": "https://github.com/Izhal-Brown/expressjs/issues"
   },
-  "homepage": "https://github.com/moronesia/express-website#readme",
+  "homepage": "https://github.com/Izhal-Brown/expressjs#readme",
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.1"
