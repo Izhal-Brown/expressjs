@@ -26,6 +26,6 @@ app.get('/myclosefriend', function (req, res) {
   res.render('pages/myclosefriend')
 })
 
-app.listen(3000,function(){
-  console.log('server is okay http://localhost:3000')
+app.listen(port, () => {
+  console.log('App is running at the port ${port}')
 })
