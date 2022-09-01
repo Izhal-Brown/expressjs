@@ -11,7 +11,7 @@ app.use(express.static('public'))
 
 // membuat route untuk masing" halaman:
 app.get('/', function (req, res) {
-  res.render('pages/biografi')
+  res.render('pages/index')
 })
 
 app.get('/skill', function (req, res) {
